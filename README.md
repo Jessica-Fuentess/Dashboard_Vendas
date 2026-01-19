@@ -18,7 +18,7 @@ O dashboard foi construído seguindo boas práticas de **Business Intelligence**
 ---
 
 ## 📈 Visão Geral do Dashboard
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](images/sales_dashboard.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ dashboard-vendas/
 ├── images/
 │   └── sales_dashboard.png
 ├── README.md
-
+````
 ---
 
 ## 📬 Contato
